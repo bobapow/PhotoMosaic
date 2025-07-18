@@ -1,5 +1,6 @@
 # PhotoMosaic
-PhotoMosaic Poster Generator
+PhotoMosaic Poster Generator. 
+
 A photo mosaic is a large image composed of many smaller images.
 The aim is to be able to view the large picture from a distance
 while still being able to discern the smaller images when viewed
