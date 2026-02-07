@@ -1,6 +1,5 @@
 # PhotoMosaic
-PhotoMosaic Poster Generator. 
-
+PhotoMosaic Poster Generator
 A photo mosaic is a large image composed of many smaller images.
 The aim is to be able to view the large picture from a distance
 while still being able to discern the smaller images when viewed
@@ -139,7 +138,7 @@ Note that full file and directory paths are recommended:
       The hash threshold value used to identify near duplicates.  
 
     * `png`  
-      The image file format to use when generating tiles.Values can be `png` or `jpg`.  
+      The image file format to use when generating tiles. Values can be `png` or `jpg`.  
 
     * `C:\images`  
       `C:\pictures`  
