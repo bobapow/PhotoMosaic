@@ -1,9 +1,11 @@
-# PhotoMosaic
-PhotoMosaic Poster Generator
+# Photo Mosaic
+
 A photo mosaic is a large image composed of many smaller images.
 The aim is to be able to view the large picture from a distance
 while still being able to discern the smaller images when viewed
 up close.  
+
+## Photo Mosaic Poster Generator
 
 This Python code generates a large poster sized picture of an input
 image using small thumbnails generated from your own photo archive.
